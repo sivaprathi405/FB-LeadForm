@@ -2,7 +2,7 @@ Facebook Lead Collector - Java Application
 This Java application serves as a model for collecting leads from Facebook and storing them in a MySQL database. The application provides functionalities to input lead details through the terminal or fetch existing lead details stored in the MySQL database.
 
 Features
-Fill Details: Allows users to input lead details such as name, email, and phone number through the terminal and stores them in the connected MySQL database.
+Fill Details: Allows users to input lead details such as name, email, and phone number through the terminal and stores them in the connected MySQL database. 
 Fetch Details: Retrieves and displays existing lead details from the MySQL database.
 Prerequisites
 To run this application, ensure you have the following installed:
